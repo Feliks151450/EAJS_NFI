@@ -1,6 +1,6 @@
 # Code for manuscript titled "Changing influence of East Asian jet shift on heatwave in China: Emerging-role of Arctic newly-formed ice"
 
-"
+
 ## This repository contains
 1. **NCL Scripts for the Figures**
    * Fig1.ncl
